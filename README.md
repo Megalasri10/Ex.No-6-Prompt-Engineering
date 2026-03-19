@@ -56,6 +56,7 @@ Case 1:
 Case 2:
 <img width="1317" height="236" alt="image" src="https://github.com/user-attachments/assets/9ca04fb3-3d20-4e22-a8f4-81f898141192" />
 
-Result: 
+Result:
+
  Thus,the implement Python code that integrates with multiple AI tools to automate the task of
 interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools.
